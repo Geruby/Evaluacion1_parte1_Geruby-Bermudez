@@ -5,5 +5,5 @@ Contiene:
 -Audio explicativo de la aplicación
 -Informe explicativo de la aplicación
 -consulta.y
--Servidor.py
+-servidor.py
 -Grafo.py
